@@ -1,7 +1,7 @@
-### black_jack
+# Interactive Black Jack
 
-# This repository contains the result of a programming challenge. It is a text based script to play blackjack.
-# Program Details:
+### This repository contains the result of a programming challenge. It is a text based script to play blackjack.
+### Program Details:
 
 1.) Player receives some chips (money) 
 2.) Player also receives two cards
